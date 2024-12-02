@@ -1,5 +1,8 @@
 {
     "assets": {
-        
+        "pnw-utilities": {
+            "version": "0.0.0",
+            "notes": []
+        }
     }
 }
